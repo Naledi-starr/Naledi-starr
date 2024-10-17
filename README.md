@@ -22,6 +22,5 @@ I’m diving deeper into AI and machine learning, with a focus on making educati
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naledi-starr&theme=radical)
 
 📫 Get in touch
-Portfolio – View my work and projects.
-LinkedIn – Let's connect professionally!
-Twitter – Follow me for tech updates.
+- [LinkedIn](https://www.linkedin.com/in/naledi-mankgogele-motswiane-7639a222a) – Let's connect professionally!
+
