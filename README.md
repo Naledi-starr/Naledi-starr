@@ -6,11 +6,12 @@ I'm a Software Development graduate with skills in C#, Python, Java, and web dev
 
 🔧 Technologies & Tools:
 
-Languages: Python, C#, Java, Kotlin, JavaScript, CSS, HTML
-Frameworks: ASP.NET, Django
-Databases: MySQL, SQL Server, Oracle, Firebase
-Tools: Git, Docker, Visual Studio, VS Code
-Design Tools: Canva , Adobe Design, Adobe illustration, Figma
+Languages: Python, C#, Java, Kotlin, JavaScript, CSS, HTML 
+Frameworks: ASP.NET, Django 
+Databases: MySQL, SQL Server, Oracle, Firebase 
+Tools: Git, Docker, Visual Studio, VS Code 
+Design Tools: Canva , Adobe Design, Adobe illustration, Figma 
+
 🌱 What I’m currently learning
 I’m diving deeper into AI and machine learning, with a focus on making educational platforms more accessible to students with learning disabilities.
 
