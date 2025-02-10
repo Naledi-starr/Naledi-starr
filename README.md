@@ -12,7 +12,7 @@ Frameworks: ASP.NET, Django
 
 Databases: MySQL, SQL Server, Oracle, Firebase
 
-Tools: Git, Visual Studio, VS Code
+Tools: Git, Visual Studio, VS Code, IntelliJ
 
 Design Tools: Canva , Adobe Design, Adobe illustration, Figma
 
