@@ -14,7 +14,7 @@ Databases: MySQL, SQL Server, Oracle, Firebase
 
 Tools: Git, Visual Studio, VS Code, IntelliJ
 
-Design Tools: Canva , Adobe Design, Adobe illustration, Figma
+Design Tools: Canva , Adobe Design, Adobe illustration
 
 🌱 What I’m currently learning
 I’m diving deeper into AI and machine learning, with a focus on making educational platforms more accessible to students with learning disabilities.
