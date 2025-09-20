@@ -5,12 +5,13 @@ Welcome to my GitHub profile! ✨ I’m a dynamic Software Developer passionate 
 ## 🚀 About Me
 
 <div style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-I’m a Software Development graduate (Cum Laude, IIE Rosebank College) with expertise in programming, web/mobile development, and IT project management. My passion lies in leveraging AI and technology to create accessible, impactful solutions, particularly in education and community empowerment. I thrive in collaborative environments, combining technical prowess with strong problem-solving and communication skills to deliver innovative applications.
+I’m a Software Development Developer with expertise in programming, web/mobile development, and IT project management. My passion lies in leveraging AI and technology to create accessible, impactful solutions, particularly in education and community empowerment. I thrive in collaborative environments, combining technical prowess with strong problem-solving and communication skills to deliver innovative applications.
 </div>
 
 ## 🔧 Technologies & Tools
 
 ### Languages
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
 <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square" alt="C#" />
 <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" alt="Java" />
@@ -19,27 +20,34 @@ I’m a Software Development graduate (Cum Laude, IIE Rosebank College) with exp
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS" />
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML" />
+</div>
 
 ### Frameworks
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square" alt="ASP.NET" />
 <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" alt="Flask" />
+</div>
 
 ### Databases
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL" />
 <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square" alt="SQL Server" />
 <img src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat-square" alt="Oracle" />
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" alt="Firebase" />
 <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square" alt="SQLite" />
+</div>
 
 ### Tools
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" />
 <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square" alt="Visual Studio" />
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" alt="VS Code" />
 <img src="https://img.shields.io/badge/-IntelliJ-000000?logo=intellij-idea&logoColor=white&style=flat-square" alt="IntelliJ" />
 <img src="https://img.shields.io/badge/-Canva-00C4B4?logo=canva&logoColor=white&style=flat-square" alt="Canva" />
+</div>
 
 ## 🌱 What I’m Currently Learning
-I’m deepening my expertise in AI and machine learning, focusing on building inclusive educational platforms that support diverse learners, particularly those with learning disabilities.
+I’m diving into Automation, React, and TypeScript to build efficient, modern web applications. Additionally, I’m advancing my expertise in AI to create innovative solutions that drive impact in education and beyond.
 
 ## 🛠️ Featured Projects
 - **Advice Generator**  
