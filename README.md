@@ -39,7 +39,7 @@ I’m a Software Development graduate (Cum Laude, IIE Rosebank College) with exp
 <img src="https://img.shields.io/badge/-Canva-00C4B4?logo=canva&logoColor=white&style=flat-square" alt="Canva" />
 
 ## 🌱 What I’m Currently Learning
-I’m deepening my expertise in AI and machine learning, focusing on building inclusive educational platforms that support diverse learners, particularly those with learning disabilities. I’m also honing my skills in software engineering through my ongoing course at WeThinkCode_ (September 2024 - August 2025).
+I’m deepening my expertise in AI and machine learning, focusing on building inclusive educational platforms that support diverse learners, particularly those with learning disabilities.
 
 ## 🛠️ Featured Projects
 - **Advice Generator**  
