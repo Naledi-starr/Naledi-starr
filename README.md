@@ -177,38 +177,6 @@ Building a strong foundation in Azure cloud concepts, core Azure services, secur
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Naledi-starr&show_icons=true&theme=radical" alt="Naledi's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naledi-starr&layout=compact&theme=radical" alt="Top Languages" />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naledi-starr&theme=radical" alt="GitHub Streak" />
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Naledi-starr&theme=radical&no-frame=false&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm always interested in connecting with developers, recruiters, technology professionals and people building interesting products.
